@@ -1,0 +1,4 @@
+#Sat Feb 06 09:02:27 SGT 2021
+base.0=/Users/zainulcain/myFirst3D/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
